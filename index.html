@@ -134,8 +134,15 @@
     var StartIcon = new Icon({iconUrl: 'home.png'});
     var AccomodationIcon = new Icon({iconUrl: 'accomodation.png'});
     var POIICon = new Icon({iconUrl: 'point-of-interest.png'});
-    var EndIcon = new Icon({iconUrl: 'welcome_to_whitehorse.png'});
+    //var EndIcon = new Icon({iconUrl: 'welcome_to_whitehorse.png'});
     var BorderIcon = new Icon({iconUrl: 'border.png'});
+	  
+    var EndIcon = L.icon({
+      iconUrl: 'welcome_to_whitehorse.png',
+      iconSize:     [50], // size of the icon
+      iconAnchor:   [16, 32],
+      popupAnchor:  [0, -32]
+    });
 
     // Read markers data from data.csv
     $.get('CrossCanadaPoints.csv', function(csvString) {
