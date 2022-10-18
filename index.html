@@ -88,10 +88,11 @@
       zoom: 5.5,
       zoomControl: false,
       zoomSnap: 0.25,
-      //layers: [baseLayers["Terrain"],Hikes,Bikes,Canoes,XCountrySki,Summits,Camps,Cabins,Bears]
+      layers: [baseLayers["Terrain"]]
     });
 
-    
+    var layerControl = L.control.layers(baseLayers).addTo(map);
+
     var Icon = L.Icon.extend({
       options: {
         iconSize:     [32, 32],
