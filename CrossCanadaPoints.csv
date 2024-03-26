@@ -3,18 +3,18 @@ OBJECTID *,Name,Point_Type,Latitude,Longitude,PIC_URL
 2,Thunder Bay,Accommodation,48.385958,-89.272036,
 3,Air Force Lodge,Accommodation,60.053395,-128.665855,
 4,Calgary,Accommodation,51.05473,-114.169713,
-5,Longitudinal Centre of Canada - 96 degrees 48 minutes 35 seconds ,Attraction,49.771313,-96.816536,
-6,Central/Eastern Standard Time Zone marker,Attraction,48.902417,-90.027606,
-7,Mac the Moose,Attraction,50.413122,-105.510098,
-8,Sign Post Forest,Attraction,60.063355,-128.714075,
-9,Mile 0 Alaska Highway,Attraction,55.758837,-120.225231,
+5,Longitudinal Centre of Canada - 96 degrees 48 minutes 35 seconds ,Attraction,49.771313,-96.816536,https://lh3.googleusercontent.com/pw/AP1GczMGDlEHXN7xx1ndq9VL02mrpONYiNJoK1ynoIzFDUTB-CUF49ZNi5xp9shoLO-XxKIxkGhtpn_B6UcquEGw6dEUhmtX0uia6tvUQOBHojV-TEaoWoD_n_RXXGDa-k7UErW4l_Ax3swwFtaX2pkX3_4Q4g=w1705-h1279-s-no-gm
+6,Central/Eastern Standard Time Zone marker,Attraction,48.902417,-90.027606,https://lh3.googleusercontent.com/pw/AP1GczMxvrRQxHFdKAaz4cAfpvL-E0W7MGPTtiH30bbWVwV5hoMtbDc80TCaE0yb14IbTAULai73BSIG_4DR6R8q2Vx0Lm40rdrSRs576eo-Ysiz94iYpBJp0Qgj5M5XmaR_g2t8p29-3Dzx-POaqqRJaftV0g=w959-h1279-s-no-gm
+7,Mac the Moose,Attraction,50.413122,-105.510098,https://lh3.googleusercontent.com/pw/AP1GczPhZyARfb_sZX-kmF1kB7XduICnUpmGnVXE5KGvX8rjRkIubR4ZWmK_9AmiG2M5PZUTpDSOMNdf3-RR9WXA3kl_CLE3hEiaCqf5Q0e8CKe9EjLKzA_w25CQ5GZipv8QeZXXn3VuuBSF550lAZQ_TiTlAg=w959-h1279-s-no-gm
+8,Sign Post Forest,Attraction,60.063355,-128.714075,https://lh3.googleusercontent.com/pw/AP1GczOBmYGmCeINS4pGenc_27PZa3lhC11--yvzpNh4h4qjnUSdolCh_qyKPqeRv0OXd9D35GX4sLymFg_saa5-JKpqvrVM4JeoIiccDn8DmXl0YFoIxyF4dzyMFPXIQvJxItxYaxwZONY_N7fDTpgZjP7rEQ=w959-h1279-s-no-gm
+9,Mile 0 Alaska Highway,Attraction,55.758837,-120.225231,https://lh3.googleusercontent.com/pw/AP1GczNNvBOMGEZag3P7UnClEXpnjYV6VouFETt9yJiIXqBT4jN20VXTMz19Sd0VFN_ZN90xKXqIIQuI1FWSQaMS7TSa_auzzt8xZDXbGBsjafpqPilCR9KUebBF32ksJlkEW0J2upg3deFI7jaiM3s_SfL16A=w959-h1279-s-no-gm
 10,Liard River Hot Springs Provincial Park,Attraction,59.424555,-126.107245,
-11,Ontario-Manitoba Border,Border,49.739267,-95.153618,
-12,Manitoba-Saskatchewan Border,Border,50.058439,-101.447522,
-13,Saskatchewan - Alberta Border,Border,49.955405,-110.005029,
-14,Alberta - British Columbia Border,Border,55.480974,-120.001331,
-15,British Columbia - Yukon Border,Border,60.00033,-128.545747,
+11,Ontario-Manitoba Border,Border,49.739267,-95.153618,https://lh3.googleusercontent.com/pw/AP1GczM6_SLBgmaNnQghrjN6xbZ7tuXqYLupxX4chsr91RLicpyWKLncAMUCeUjHtnNPCk1f7nWmQgNm4-03qWz8-h-wPVnR232SNNh4g6Jx6ytggT6NkqOjv7p8yiCliHkUGZTrqYkAof1KV-4JT2_EsG1H8A=w959-h1279-s-no-gm
+12,Manitoba-Saskatchewan Border,Border,50.058439,-101.447522,https://lh3.googleusercontent.com/pw/AP1GczOUC3jhemJ8aAG9j9sWl7lGRzG4Q3nefm6wm0i3eWXsJktOcIOb07dMoMBq_7aUmVM6_KbASKeiG4EvAim-JR3wxUsbV809tfPJzw1zTAadgIyqEF8WndTLsKnW3CCekbO9P9qGvMxKkLUttHJvzscwGQ=w1280-h960-s-no-gm
+13,Saskatchewan - Alberta Border,Border,49.955405,-110.005029,https://lh3.googleusercontent.com/pw/AP1GczNmqptWD4E_jcp0IGMCwRHNrNcADzpu-vBA2JXs9WDKYQAO4CdrtwK1idbb1_cvxdgPrvwIUf8UMSsvR2LRlot__bozv9P0HIicj7kBQsWAQ6oFJqCOw760yf2G74hrWFTm0L_te56DAZ-cI6SZwI2UHQ=w959-h1279-s-no-gm
+14,Alberta - British Columbia Border,Border,55.480974,-120.001331,https://lh3.googleusercontent.com/pw/AP1GczNcYtQT05KuQfhqFRxuhdun_qk2exrRursLV0Rb5TRkHWhoUltvot63YLalqm7RrAIsJV6ibHgAUwjxDOGGQTiyoeeJ9LKxZlvh_Dwgdc48AyQdIo42s7M1D5Rsrp1ZsU5ojUCEuTy0vs-uJ7P9HpNOHg=w959-h1279-s-no-gm
+15,British Columbia - Yukon Border,Border,60.00033,-128.545747,https://lh3.googleusercontent.com/pw/AP1GczNxVI-9ghjoNEUqcbYHEeaYzf-Yyinnfx5D4ONkD1rWbGL7Sn_GEMoSThr6l0QFpKwGBD7vrcJO3bhiimCNAOX6mbW9aBfcM6cbn_oZGDpZQQQxAkL2QC2Mt2sgqmtIXJDnHuOzchN6VR1U_vM_1mpflg=w959-h1279-s-no-gm
 16,Grand Valley Campground,Camp,49.873622,-100.083763,
 17,Snaring Campground - Jasper,Camp,53.015291,-118.084226,
-18,Whitehorse,End,60.719209,-135.051906,
+18,Whitehorse,End,60.719209,-135.051906,https://lh3.googleusercontent.com/pw/AP1GczPpkvQn4xIiRfHKDhpJi4d-Ja0qmgZFGBJVCFzcorJNNp0RgqNuT8xig_YFip4REoAKYf_sivUIc4krtoc6orTmOWTx31IMJDq9T9XAVc4u7TZSyMAbBZQ7cOnebgii5vrJ5_1A9enAcx85sxykLCgSmA=w959-h1279-s-no-gm
 19,115 Maple Dr,Start,44.182156,-77.399076,
