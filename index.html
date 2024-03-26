@@ -164,22 +164,22 @@
         var row = data[i];
         if (row.Point_Type == 'Camp') {
             var xcanadaicon = CampIcon;
-	    var popuptxt = "<h1>" + row.Name +"</h1><a href='" + row.PIC_URL + "'><img src='" + row.PIC_URL + "'" + " class=popupImage " + "/>"
+	    var popuptxt = "<h1>" + row.Name +"</h1><a href='" + row.PIC_URL + "'><img src='" + row.PIC_URL + "'" + " onerror=this.style.display='none' class=popupImage " + "/>"
           } else if (row.Point_Type == 'Start') {
             var xcanadaicon = StartIcon;
 	    var popuptxt = '<video width="320" controls autoplay><source src="RoadTrip.mp4"></source></video>'
 	  } else if (row.Point_Type == 'Attraction') {
 	    var xcanadaicon = POIICon;
-	    var popuptxt = "<h1>" + row.Name +"</h1><a href='" + row.PIC_URL + "'><img src='" + row.PIC_URL + "'" + " class=popupImage " + "/>"
+	    var popuptxt = "<h1>" + row.Name +"</h1><a href='" + row.PIC_URL + "'><img src='" + row.PIC_URL + "'" + " onerror=this.style.display='none' class=popupImage " + "/>"
 	  } else if (row.Point_Type == 'Accommodation') {
 	    var xcanadaicon = AccomodationIcon;
-	    var popuptxt = "<h1>" + row.Name +"</h1><a href='" + row.PIC_URL + "'><img src='" + row.PIC_URL + "'" + " class=popupImage " + "/>"
+	    var popuptxt = "<h1>" + row.Name +"</h1><a href='" + row.PIC_URL + "'><img src='" + row.PIC_URL + "'" + " onerror=this.style.display='none' class=popupImage " + "/>"
 	  } else if (row.Point_Type == 'Border') {
 	    var xcanadaicon = BorderIcon;
-	    var popuptxt = "<h1>" + row.Name +"</h1><a href='" + row.PIC_URL + "'><img src='" + row.PIC_URL + "'" + " class=popupImage " + "/>" 
+	    var popuptxt = "<h1>" + row.Name +"</h1><a href='" + row.PIC_URL + "'><img src='" + row.PIC_URL + "'" + " onerror=this.style.display='none' class=popupImage " + "/>"
           } else {
 	    var xcanadaicon = EndIcon;
-	    var popuptxt = "<h1>" + row.Name +"</h1><a href='" + row.PIC_URL + "'><img src='" + row.PIC_URL + "'" + " class=popupImage " + "/>"
+	    var popuptxt = "<h1>" + row.Name +"</h1><a href='" + row.PIC_URL + "'><img src='" + row.PIC_URL + "'" + " onerror=this.style.display='none' class=popupImage " + "/>"
 	  };   
 	      
         var xCanadamarker = L.marker([row.Latitude, row.Longitude], {
