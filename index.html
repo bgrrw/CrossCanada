@@ -17,7 +17,9 @@
 
   <!-- Javascript Variable of tracks from geojson -->
   <script src="CrossCanadaDrive.js" type="text/javascript"></script>
-
+  <!-- Map credit -->
+  <script type="text/javascript" src="leaflet-control-credits.js"></script>
+  <link rel="stylesheet" href="leaflet-control-credits.css" />
   <!-- Position the map and title with Cascading Style Sheet (CSS) -->
   <style>
   body { margin:0; padding:0; }
@@ -98,9 +100,17 @@
       maxZoom: 9,
       layers: [baseLayers["Terrain"]]
     });
-
+    //Map Credit
     var layerControl = L.control.layers(baseLayers).addTo(map);
-    
+        L.controlCredits({
+	imageurl: 'logo.png',
+	tooltip: 'Brad Garrow',
+	imagealt: 'None',
+	width: '30px',
+	height: '30px',
+	expandcontent: 'Mapping by <br/>Brad Garrow',
+    }).addTo(map);
+	  
     //Mini-Map
     var worldMiniMap = L.control.worldMiniMap({position: 'bottomleft', style: {opacity: 0.9, borderRadius: '0px', backgroundColor: 'lightblue'}}).addTo(map);
 	
